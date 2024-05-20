@@ -1,0 +1,22 @@
+Após fazer o download da pasta Avalição Testes de Software através do GITHUB e descompactado a pasta
+
+Parte 1 - AVALIAÇÃO.
+
+1 - Abra o documento de relatório que se encontra em: https://docs.google.com/document/d/1cCWb8ozXBTSj1HjlNlXceYB_gHCTYgGO/edit?usp=sharing&ouid=108847026762289376689&rtpof=true&sd=true e faça uma cópia
+                                                            VOCÊ NÃO DEVE EDITAR O DOCUMENTO SEM CRIAR UMA CÓPIA.
+
+2 - Abra o arquivo index.html que está dentro da pasta calculadora (Não abra o código, somente no navegador.). 
+3 - Execute testes de entradas no index.html da pasta calculadora e preencha o relatório de acordo como mostrado pelo professor.
+4 - Abra o arquivo index.html que está dentro da pasta E-commerce (Não abra o código, somente no navegador.). 
+5 - Execute testes de entradas no index.html da pasta E-commerce e preencha o relatório de acordo como mostrado pelo professor.
+6 - Abra o arquivo index.html que está dentro da pasta EstacionaCar (Não abra o código, somente no navegador.). 
+7 - Execute testes de entradas no index.html da pasta EstacionaCar e preencha o relatório de acordo como mostrado pelo professor.
+8 - Envie o relatório ao professor no endereço de e-mail: joarezdev.js@gmail.com, preencha o assunto com seu nome e com a sigla de Jovem Programador, exemplo: Antônio dos Santos - JP
+
+
+Parte 2 - AVALIAÇÃO
+1 - Abra o arquivo index.html da pasta calculadora, observe possíveis erros, comente os erros no código e por fim corrija-o o máximo possível.
+2 - Abra o arquivo index.html e o arquivo script.js da pasta e-commerce (talvez seja necessário editar o style.css), observe possíveis erros, comente os erros no código e por fim corrija-o o máximo possível.
+3 - Abra o arquivo index.html e o script.js da pasta EstacionaCar, observe possíveis erros, comente os erros no código e por fim corrija-o o máximo possível.
+
+
